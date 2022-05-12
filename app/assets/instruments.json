@@ -1,0 +1,332 @@
+[
+    {
+        "exchange": "Equiduct Netherlands",
+        "isin": "NL0000009355",
+        "name": "Apple Inc.",
+        "symbol": "AAPL",
+        "currentPrice": {
+            "value": 49.055,
+            "currency": "EUR"
+        },
+        "priceDetails": {
+            "closePrice": {
+                "value": 49.02,
+                "currency": "EUR"
+            },
+            "highPrice": {
+                "value": 49.255,
+                "currency": "EUR"
+            },
+            "lowPrice": {
+                "value": 48.78,
+                "currency": "EUR"
+            },
+            "openPrice": {
+                "value": 49.0699,
+                "currency": "EUR"
+            }
+        },
+        "intradayPriceMutation": 0.07139942880456956,
+        "datetime": "2022-05-05T15:15:39.739Z"
+    },
+    {
+        "exchange": "NASDAQ-GS",
+        "isin": "US8552441094",
+        "name": "Starbucks Corporation",
+        "symbol": "SBUX",
+        "currentPrice": {
+            "value": 76.25,
+            "currency": "EUR"
+        },
+        "priceDetails": {
+            "closePrice": {
+                "value": 76.520,
+                "currency": "EUR"
+            },
+            "highPrice": {
+                "value": 77.030,
+                "currency": "EUR"
+            },
+            "lowPrice": {
+                "value": 75.21,
+                "currency": "EUR"
+            },
+            "openPrice": {
+                "value": 77.03,
+                "currency": "EUR"
+            }
+        },
+        "intradayPriceMutation": 0.07139942880456956,
+        "datetime": "2022-05-05T15:15:39.739Z"
+    },
+    {
+        "exchange": "NYSE",
+        "isin": "US6541061031",
+        "name": "NIKE, Inc.",
+        "symbol": "NKE",
+        "currentPrice": {
+            "value": 114.20,
+            "currency": "EUR"
+        },
+        "priceDetails": {
+            "closePrice": {
+                "value": 114.49,
+                "currency": "EUR"
+            },
+            "highPrice": {
+                "value": 115.90,
+                "currency": "EUR"
+            },
+            "lowPrice": {
+                "value": 110.66,
+                "currency": "EUR"
+            },
+            "openPrice": {
+                "value": 113.74,
+                "currency": "EUR"
+            }
+        },
+        "intradayPriceMutation": 0.07139942880456956,
+        "datetime": "2022-05-05T15:15:39.739Z"
+    },
+    {
+        "exchange": "NYSE",
+        "isin": "CH0114405324",
+        "name": "Garmin Ltd.",
+        "symbol": "GRMN",
+        "currentPrice": {
+            "value": 105.34,
+            "currency": "EUR"
+        },
+        "priceDetails": {
+            "closePrice": {
+                "value": 106.03,
+                "currency": "EUR"
+            },
+            "highPrice": {
+                "value": 108.17,
+                "currency": "EUR"
+            },
+            "lowPrice": {
+                "value": 104.71,
+                "currency": "EUR"
+            },
+            "openPrice": {
+                "value": 104.71,
+                "currency": "EUR"
+            }
+        },
+        "intradayPriceMutation": 0.07139942880456956,
+        "datetime": "2022-05-05T15:15:39.739Z"
+    },
+    {
+        "exchange": "NASDAQ-GS",
+        "isin": "US88160R1014",
+        "name": "Tesla, Inc.",
+        "symbol": "TSLA",
+        "currentPrice": {
+            "value": 863.95,
+            "currency": "EUR"
+        },
+        "priceDetails": {
+            "closePrice": {
+                "value": 865.65,
+                "currency": "EUR"
+            },
+            "highPrice": {
+                "value": 887.89,
+                "currency": "EUR"
+            },
+            "lowPrice": {
+                "value": 843.10,
+                "currency": "EUR"
+            },
+            "openPrice": {
+                "value": 887.00,
+                "currency": "EUR"
+            }
+        },
+        "intradayPriceMutation": 0.07139942880456956,
+        "datetime": "2022-05-05T15:15:39.739Z"
+    },
+    {
+        "exchange": "NASDAQ-GS",
+        "isin": "US0231351067",
+        "name": "Amazon.com, Inc.",
+        "symbol": "AMZN",
+        "currentPrice": {
+            "value": 2208.10,
+            "currency": "EUR"
+        },
+        "priceDetails": {
+            "closePrice": {
+                "value": 2295.45,
+                "currency": "EUR"
+            },
+            "highPrice": {
+                "value": 2380.00,
+                "currency": "EUR"
+            },
+            "lowPrice": {
+                "value": 2261.62,
+                "currency": "EUR"
+            },
+            "openPrice": {
+                "value": 2297.00,
+                "currency": "EUR"
+            }
+        },
+        "intradayPriceMutation": 0.07139942880456956,
+        "datetime": "2022-05-05T15:15:39.739Z"
+    },
+    {
+        "exchange": "NASDAQ-GS",
+        "isin": "US64110L1061",
+        "name": "Netflix, Inc.",
+        "symbol": "NFLX",
+        "currentPrice": {
+            "value": 180.30,
+            "currency": "EUR"
+        },
+        "priceDetails": {
+            "closePrice": {
+                "value": 180.97,
+                "currency": "EUR"
+            },
+            "highPrice": {
+                "value": 187.03,
+                "currency": "EUR"
+            },
+            "lowPrice": {
+                "value": 175.82,
+                "currency": "EUR"
+            },
+            "openPrice": {
+                "value": 186.75,
+                "currency": "EUR"
+            }
+        },
+        "intradayPriceMutation": 0.07139942880456956,
+        "datetime": "2022-05-05T15:15:39.739Z"
+    },
+    {
+        "exchange": "NASDAQ-GS",
+        "isin": "US30303M1027",
+        "name": "Meta Platforms, Inc.",
+        "symbol": "FB",
+        "currentPrice": {
+            "value": 203.12,
+            "currency": "EUR"
+        },
+        "priceDetails": {
+            "closePrice": {
+                "value": 203.77,
+                "currency": "EUR"
+            },
+            "highPrice": {
+                "value": 209.38,
+                "currency": "EUR"
+            },
+            "lowPrice": {
+                "value": 201.02,
+                "currency": "EUR"
+            },
+            "openPrice": {
+                "value": 207.34,
+                "currency": "EUR"
+            }
+        },
+        "intradayPriceMutation": 0.07139942880456956,
+        "datetime": "2022-05-05T15:15:39.739Z"
+    },
+    {
+        "exchange": "NASDAQ-GS",
+        "isin": "US5949181045",
+        "name": "Microsoft Corporation",
+        "symbol": "MSFT",
+        "currentPrice": {
+            "value": 274.60,
+            "currency": "EUR"
+        },
+        "priceDetails": {
+            "closePrice": {
+                "value": 274.73,
+                "currency": "EUR"
+            },
+            "highPrice": {
+                "value": 279.23,
+                "currency": "EUR"
+            },
+            "lowPrice": {
+                "value": 271.29,
+                "currency": "EUR"
+            },
+            "openPrice": {
+                "value": 274.80,
+                "currency": "EUR"
+            }
+        },
+        "intradayPriceMutation": 0.07139942880456956,
+        "datetime": "2022-05-05T15:15:39.739Z"
+    },
+    {
+        "exchange": "NASDAQ-GS",
+        "isin": "US2786421030",
+        "name": "eBay Inc.",
+        "symbol": "EBAY",
+        "currentPrice": {
+            "value": 48.99,
+            "currency": "EUR"
+        },
+        "priceDetails": {
+            "closePrice": {
+                "value": 48.81,
+                "currency": "EUR"
+            },
+            "highPrice": {
+                "value": 49.64,
+                "currency": "EUR"
+            },
+            "lowPrice": {
+                "value": 47.03,
+                "currency": "EUR"
+            },
+            "openPrice": {
+                "value": 48.00,
+                "currency": "EUR"
+            }
+        },
+        "intradayPriceMutation": 0.07139942880456956,
+        "datetime": "2022-05-05T15:15:39.739Z"
+    },
+    {
+        "exchange": "NYSE",
+        "isin": "NL0011821202",
+        "name": "ING Groep N.V.",
+        "symbol": "ING",
+        "currentPrice": {
+            "value": 9.59,
+            "currency": "EUR"
+        },
+        "priceDetails": {
+            "closePrice": {
+                "value": 9.15,
+                "currency": "EUR"
+            },
+            "highPrice": {
+                "value": 9.28,
+                "currency": "EUR"
+            },
+            "lowPrice": {
+                "value": 9.01,
+                "currency": "EUR"
+            },
+            "openPrice": {
+                "value": 9.85,
+                "currency": "EUR"
+            }
+        },
+        "intradayPriceMutation": 0.07139942880456956,
+        "datetime": "2022-05-05T15:15:39.739Z"
+    }
+    ]
